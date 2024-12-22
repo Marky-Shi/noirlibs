@@ -1,0 +1,8 @@
+[package]
+name = "merkleroot"
+type = "bin"
+authors = ["MarkyShi"]
+compiler_version = ">=0.36.0"
+license = "MIT"
+
+[dependencies]
